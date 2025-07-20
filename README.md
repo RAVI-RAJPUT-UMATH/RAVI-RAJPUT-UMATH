@@ -58,6 +58,8 @@
 
 - 🥉 **Smart India Hackathon (SIH) 2024**  
   Finalist – Secured a Position at **Shri Ramswaroop Memorial University (SRMU), Lucknow**
+  <img src="https://raw.githubusercontent.com/IndiaInnovationHub/hackathons/main/static/images/sih_logo.png" alt="SIH 2024 Logo" width="250"/>
+
 
 - ⚙️ **Hackofestia 6.0 (2025) by IIIT Lucknow & UP Govt**  
   Selected for **Pre-Final Round** among top teams from across the state
