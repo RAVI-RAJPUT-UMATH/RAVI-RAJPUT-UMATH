@@ -57,7 +57,7 @@
 
 ## 📫 Connect with Me
 
-- 📧 Email](mailto:bittubanarajput123@gmail.com)  
+- 📧 [Email](mailto:bittubanarajput123@gmail.com)    
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ravi-rajput-438780317/)  
 - 🐦 [Twitter / X](https://x.com/RaviUmath)
 
