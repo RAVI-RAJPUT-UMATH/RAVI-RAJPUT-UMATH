@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ravi Rajput
 
-🎓 First-Year B.Tech Computer Science Student at **Sitare University**  
+🎓 Second-Year B.Tech Computer Science Student at **Sitare University**  
 🔍 Passionate about coding, development and building tech for social good
 
 ---
