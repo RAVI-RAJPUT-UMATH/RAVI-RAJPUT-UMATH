@@ -10,7 +10,7 @@
 - 📚 Currently learning **Data Structures & Algorithms (DSA)** and full-stack web development  
 - 💡 Interested in applying technology to **education**, **safety**, and **agriculture** domains  
 - 💻 Participated in national/state-level hackathons:
-  - 🥉 **Smart India Hackathon (SIH) 2024** – Finalist & secure a Position at SRMU, Lucknow (Semester 1)
+  - 🥉 **Smart India Hackathon (SIH) 2024 & 2025** – Finalist & secure a Position at SRMU in internals, Lucknow (Semester 1)
   - ⚙️ **Hackofestia 6.0 (2025) by IIIT Lucknow & UP Govt** – Selected for **Pre-Final Round** among top teams from across the state (Semester 2)
 - 🌱 Always eager to learn, contribute, and collaborate with the tech community
 
@@ -56,8 +56,8 @@
 
 ## 🏆 Achievements
 
-- 🥉 **Smart India Hackathon (SIH) 2024**  
-  Finalist – Secured a Position at **Shri Ramswaroop Memorial University (SRMU), Lucknow**
+- 🥉 **Smart India Hackathon (SIH) 2024 & 2025**  
+  Finalist – Secured a Position at **Shri Ramswaroop Memorial University (SRMU) in internals, Lucknow**
   
 - ⚙️ **Hackofestia 6.0 (2025) by IIIT Lucknow & UP Govt**  
   Selected for **Pre-Final Round** among top teams from across the state
