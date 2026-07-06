@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # 👋 Hi, I'm Ravi Rajput
@@ -258,4 +257,4 @@ Interactive matrix decomposition tool with step-by-step visualization.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=140&section=footer"/>
 
 </div>
-```
+
