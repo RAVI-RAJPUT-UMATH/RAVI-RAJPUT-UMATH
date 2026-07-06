@@ -37,43 +37,80 @@ To become a Software Engineer building scalable, AI-powered products that create
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+## 👨‍💻 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c"/>
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=java" width="60"/><br><sub><b>Java</b></sub></a>
+  &nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=python" width="60"/><br><sub><b>Python</b></sub></a>
+  &nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=javascript" width="60"/><br><sub><b>JavaScript</b></sub></a>
+  &nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=c" width="60"/><br><sub><b>C</b></sub></a>
 </p>
 
-### 🌐 Web Development
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,flask,fastapi,php"/>
+## 🌐 Web Development
+
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=html" width="60"/><br><sub><b>HTML5</b></sub></a>
+  &nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=css" width="60"/><br><sub><b>CSS3</b></sub></a>
+  &nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=flask" width="60"/><br><sub><b>Flask</b></sub></a>
+  &nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=fastapi" width="60"/><br><sub><b>FastAPI</b></sub></a>
+  &nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=php" width="60"/><br><sub><b>PHP</b></sub></a>
 </p>
 
-### 🗄 Database
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase"/>
+## 🗄️ Database
+
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="60"/><br><sub><b>MySQL</b></sub></a>
+  &nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=postgres" width="60"/><br><sub><b>PostgreSQL</b></sub></a>
+  &nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=firebase" width="60"/><br><sub><b>Firebase</b></sub></a>
 </p>
 
-### 🤖 AI & Data
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv"/>
+## 🤖 AI & Data
+
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=tensorflow" width="60"/><br><sub><b>TensorFlow</b></sub></a>
+  &nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=opencv" width="60"/><br><sub><b>OpenCV</b></sub></a>
+  &nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.simpleicons.org/pandas/150458" width="60"/><br><sub><b>Pandas</b></sub></a>
+  &nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.simpleicons.org/numpy/013243" width="60"/><br><sub><b>NumPy</b></sub></a>
+  &nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.simpleicons.org/matplotlib/11557C" width="60"/><br><sub><b>Matplotlib</b></sub></a>
+  &nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.simpleicons.org/beautifulsoup/4B8BBE" width="60"/><br><sub><b>BeautifulSoup</b></sub></a>
 </p>
 
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge"/>
-</p>
+---
 
-### ⚙ Tools
+## ⚙️ Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,latex"/>
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=git" width="60"/><br><sub><b>Git</b></sub></a>
+  &nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=github" width="60"/><br><sub><b>GitHub</b></sub></a>
+  &nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=vscode" width="60"/><br><sub><b>VS Code</b></sub></a>
+  &nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=aws" width="60"/><br><sub><b>AWS</b></sub></a>
+  &nbsp;&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=latex" width="60"/><br><sub><b>LaTeX</b></sub></a>
 </p>
 
 ---
